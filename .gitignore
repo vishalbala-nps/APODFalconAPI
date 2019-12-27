@@ -1,3 +1,6 @@
 env
 __pycache__
 look/__pycache__
+look/get_img.pyc
+look/app.pyc
+.vscode
